@@ -5,7 +5,7 @@
 
 # Software Developer & Graphic Designer   
 
-**Software Developer with 8+ years of experience creating digital products.**
+**Software Developer with 8+ years of experience creating digital products.**  
 I specialize in business models, from a technological perspective
 
 Web and Mobile application development using Next.js, React Native/Expo, and Express/Nest.js.
