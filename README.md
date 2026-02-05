@@ -5,13 +5,14 @@
 
 # Software Developer & Graphic Designer   
 
-⚡ Full-Stack Developer with a Frontend focus, bringing over +8 years of experience.  
-⚡ I build modern web and mobile applications using NextJs or React Native and NestJS with ExpressJs.  
-⚡ Focused on scalable architectures, user experience, and product-driven development.
+**Software Developer with 8+ years of experience creating digital products.**
+I specialize in business models, from a technological perspective
 
-I blend two disciplines **Design & FullStack Development** to create modern, user centered, and technically products. My experience across diverse projects has given me a deep understanding of how to architecture, design, and high quality solutions.
+Web and Mobile application development using Next.js, React Native/Expo, and Express/Nest.js.
+Focused on design, architecture, and product development.
+Throughout my career, thanks to various projects, I've gained experience understanding the phases, risks, and solutions of the development lifecycle.
 
-I explore new technologies, especially those related to modern frontend development, and build my own **SAAS as an entrepreneur**.
+
 
 
 
